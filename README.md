@@ -1,0 +1,2 @@
+# SlimeBad
+Moderacion,juegos,comandos
